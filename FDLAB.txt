@@ -1,0 +1,68 @@
+<html>
+<title>sample resume</title>
+<body>
+	<img src="\D:bindu.jpg" length="1500" breadth="1000" alt="photo not found" align="right">
+	<b>Name:</b>K.Bindu<br>
+	<b>ID NO:</b>20761A0596<br>
+	<b>Contact no:</b>9849523852<br>
+	<b>Email ID:</b>kpavanabindu@gmail.com<br>
+	<b>Address:</b>Guntur<br>
+	<b>Dept:</b>CSE<br>
+	<font color="orange"><b>Objectives:</b></font><br>
+	to secure a better position in the desired company<br>
+	<font color="Green"><b>Educational Qualifications:</b></font><br>
+	<table border="1">
+	<tr>
+		<th>sno.</th>
+		<th>Education</th>
+		<th>Year of study</th>
+		<th>Grade</th>
+		<th>Place of study</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>B.Tech</td>
+		<td>2020-2024</td>
+		<td>7.2</td>
+		<td>Mylavaram</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Intermediate</td>
+		<td>2018-2020</td>
+		<td>8.75</td>
+		<td>Guntur</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>SSC</td>
+		<td>2017-2018</td>
+		<td>9.0</td>
+		<td>Reddypalem</td>
+	</tr>
+	</table>
+	<font color="pink"><b>Technical Qualifications:</b></font><br>
+	<ul type="disc">
+	<li>skilled in oracle</li>
+	<li>skilled in programming languages like c,java</li>
+	<li>skilled in python</li>
+	</ul>
+	<font color="green"><b>Workshops attended:</b></font><br>
+	<ul type="square">
+	<li>attended a workshop at ss solutions company,Guntur</li>
+	</ul>
+	<font color="blue"><b>Achievements:</b></font><br>
+	<ul type="square">
+	<li>First prize in drawing</li>
+	</ul>
+	<b font color="blue">My Strengths:</b><br>
+	<ul type="square">
+	<li>soft skills</li>
+	<li>good communication skills</li>
+	</ul>
+	<b>Declaration:</b><br>
+	I hereby declare that, the above mentioned details are true as per my knowledge.
+	<h3 align="right">Signature</h3>
+	<h4 align="right">bindu</h4>
+</body>
+</html>	
